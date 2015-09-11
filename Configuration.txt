@@ -1,1 +1,1 @@
-Config configuration file -- settings to be mantion
+Config configuration file -- settings
